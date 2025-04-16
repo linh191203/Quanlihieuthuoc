@@ -1,0 +1,17 @@
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\bin\Debug\QC_NHA_THUOC_LH.exe.config
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\bin\Debug\QC_NHA_THUOC_LH.exe
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\bin\Debug\QC_NHA_THUOC_LH.pdb
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.csproj.AssemblyReference.cache
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.Dangnhap.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.Properties.Resources.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.csproj.GenerateResource.cache
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.csproj.CoreCompileInputs.cache
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.exe
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.pdb
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.Dangki.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.UC_Admin.Menu.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.UC_Admin.FormQuanNhanVien.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.UC_Admin.FormQuanLiThuoc.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.UC_Admin.FormQuanLiDonThuoc.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.UC_Admin.FormQuanLiNhaCungCap.resources
+C:\Users\dinhbalinh\source\repos\QC_NHA_THUOC_LH\QC_NHA_THUOC_LH\obj\Debug\QC_NHA_THUOC_LH.UC_Admin.FormQuanLiKho.resources
